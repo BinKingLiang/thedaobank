@@ -1,0 +1,9 @@
+No files changed, compilation skipped
+
+Ran 3 tests for test/DaoBankTest.t.sol:DaoBankTest
+[PASS] testCreateProposal() (gas: 203484)
+[PASS] testVoteAndExecuteProposal() (gas: 471239)
+[PASS] test_RevertWhen_NotGov() (gas: 13907)
+Suite result: ok. 3 passed; 0 failed; 0 skipped; finished in 13.28ms (6.26ms CPU time)
+
+Ran 1 test suite in 335.44ms (13.28ms CPU time): 3 tests passed, 0 failed, 0 skipped (3 total tests)
